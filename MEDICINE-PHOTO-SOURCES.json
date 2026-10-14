@@ -1,0 +1,32 @@
+[
+  {
+    "path": "medicines/paracetamol-photo.jpg",
+    "url": "https://www.mccabespharmacy.com/cdn/shop/files/PfizerParacetamol500mgFilmCoatedTablets24Pack.jpg?v=1704467734&width=1200",
+    "ok": true
+  },
+  {
+    "path": "medicines/esomeprazole-photo.jpg",
+    "url": "https://medicalstore.com.pk/wp-content/uploads/2020/09/21.png",
+    "ok": true
+  },
+  {
+    "path": "medicines/ors-photo.jpg",
+    "url": "https://2.wlimg.com/product_images/bc-full/2025/6/14709027/ors-powder-sachets-1751282373-8170664.jpeg",
+    "ok": true
+  },
+  {
+    "path": "medicines/omeprazole-photo.jpg",
+    "url": "https://www.netpharmacy.co.nz/cdn/shop/products/dr-reddys-omeprazole-20mg-28-capsules.jpg?v=1612926111&width=1024",
+    "ok": true
+  },
+  {
+    "path": "medicines/ibuprofen-photo.jpg",
+    "url": "https://ueeshop.ly200-cdn.com/u_file/UPAU/UPAU555/2507/products/08/21eabca160.png",
+    "ok": true
+  },
+  {
+    "path": "medicines/vitamin-c-photo.jpg",
+    "url": "https://med365.co.za/cdn/shop/files/Health_First_Vitamin_C_500mg_100_Tablets_55c2b0b5-e6ba-465e-9fd5-7fb8eb078d45_700x700.jpg?v=1719585754",
+    "ok": true
+  }
+]

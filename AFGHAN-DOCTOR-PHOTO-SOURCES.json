@@ -1,0 +1,58 @@
+[
+  {
+    "path": "doctors/farzana.jpg",
+    "photo_subject": "Nilofar Sadiq",
+    "url": "https://www.gfmer.ch/SRH-Course-2017/participants/images/Nilofar-Sadiq.jpg",
+    "source_page": "https://www.gfmer.ch/SRH-Course-2017/participants/Nilofar-Sadiq.htm",
+    "ok": true,
+    "note": "Afghan medical professional portrait used illustratively in an academic demo; displayed provider name, specialty, address and fee are fictional."
+  },
+  {
+    "path": "doctors/maryam.jpg",
+    "photo_subject": "Monis Amiri",
+    "url": "https://arianamc.com/storage/2021/02/dr_Monis.jpg",
+    "source_page": "https://arianamc.com/monis-amiri/",
+    "ok": true,
+    "note": "Afghan medical professional portrait used illustratively in an academic demo; displayed provider name, specialty, address and fee are fictional."
+  },
+  {
+    "path": "doctors/ahmad.jpg",
+    "photo_subject": "Pazhman Sediqi",
+    "url": "https://arianamc.com/storage/2020/12/Pazhman-Sediqi.jpg",
+    "source_page": "https://arianamc.com/departments/neuropsychiatry/",
+    "ok": true,
+    "note": "Afghan medical professional portrait used illustratively in an academic demo; displayed provider name, specialty, address and fee are fictional."
+  },
+  {
+    "path": "doctors/hamid.jpg",
+    "photo_subject": "Khaibar Sidiqi",
+    "url": "https://arianamc.com/storage/2020/07/Khaibar_Sidiqi.png",
+    "source_page": "https://arianamc.com/khaibar-sidiqi/",
+    "ok": true,
+    "note": "Afghan medical professional portrait used illustratively in an academic demo; displayed provider name, specialty, address and fee are fictional."
+  },
+  {
+    "path": "doctors/nasir.jpg",
+    "photo_subject": "Murtaza Keyomars Azarian",
+    "url": "https://arianamc.com/storage/2025/03/dr-Keyomars-1.png",
+    "source_page": "https://arianamc.com/keyomars-azarian/",
+    "ok": true,
+    "note": "Afghan medical professional portrait used illustratively in an academic demo; displayed provider name, specialty, address and fee are fictional."
+  },
+  {
+    "path": "doctors/zia.jpg",
+    "photo_subject": "Abdul Wahed Sidiqi",
+    "url": "https://arianamc.com/storage/2023/03/Abdul-Wahed-Sidiqi-01-1.png",
+    "source_page": "https://arianamc.com/abdul-wahed-sidiqi/",
+    "ok": true,
+    "note": "Afghan medical professional portrait used illustratively in an academic demo; displayed provider name, specialty, address and fee are fictional."
+  },
+  {
+    "path": "doctors/laila.jpg",
+    "photo_subject": "Sahar Sedeqi",
+    "url": "https://www.gfmer.ch/SRH-Course-2014/participants/images/Sahar-Sedeqi.jpg",
+    "source_page": "https://www.gfmer.ch/SRH-Course-2014/participants/Sahar-Sedeqi.htm",
+    "ok": true,
+    "note": "Afghan medical professional portrait used illustratively in an academic demo; displayed provider name, specialty, address and fee are fictional."
+  }
+]

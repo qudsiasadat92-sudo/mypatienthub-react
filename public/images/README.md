@@ -1,0 +1,1 @@
+Local stock assets for fictional educational entries. Source URLs for new photographs are in IMAGE-SOURCES.json at the project root. Photos do not identify the named sample doctors or patient. Existing medicine and pharmacy illustrations are demo artwork.

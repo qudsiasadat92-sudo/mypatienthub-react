@@ -1,0 +1,189 @@
+[
+  {
+    "path": "profiles/patient-profile.jpg",
+    "url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=85",
+    "ok": true
+  },
+  {
+    "path": "marketplace/healthy-meal.jpg",
+    "url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=85",
+    "ok": true
+  },
+  {
+    "path": "marketplace/fresh-fruits.jpg",
+    "url": "https://images.unsplash.com/photo-1610832958506-aa56368176cf?auto=format&fit=crop&w=800&q=85",
+    "ok": true
+  },
+  {
+    "path": "marketplace/diet-package.jpg",
+    "url": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=85",
+    "ok": true
+  },
+  {
+    "path": "marketplace/organic-food.jpg",
+    "url": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=85",
+    "ok": true
+  },
+  {
+    "path": "services/primary-care.jpg",
+    "url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=800&q=85",
+    "ok": true
+  },
+  {
+    "path": "services/emergency-care.jpg",
+    "url": "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&w=800&q=85",
+    "ok": true
+  },
+  {
+    "path": "services/imaging.jpg",
+    "url": "https://images.unsplash.com/photo-1516069677018-378515003435?auto=format&fit=crop&w=800&q=85",
+    "ok": true
+  },
+  {
+    "path": "services/urgent-care.jpg",
+    "url": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=800&q=85",
+    "ok": true
+  },
+  {
+    "path": "clinics/clinic.jpg",
+    "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=800&q=85",
+    "ok": true
+  },
+  {
+    "path": "doctors/farzana.jpg",
+    "photo_subject": "Nilofar Sadiq",
+    "url": "https://www.gfmer.ch/SRH-Course-2017/participants/images/Nilofar-Sadiq.jpg",
+    "source_page": "https://www.gfmer.ch/SRH-Course-2017/participants/Nilofar-Sadiq.htm",
+    "ok": true,
+    "note": "Afghan medical professional portrait used illustratively in an academic demo; displayed provider name, specialty, address and fee are fictional."
+  },
+  {
+    "path": "doctors/maryam.jpg",
+    "photo_subject": "Monis Amiri",
+    "url": "https://arianamc.com/storage/2021/02/dr_Monis.jpg",
+    "source_page": "https://arianamc.com/monis-amiri/",
+    "ok": true,
+    "note": "Afghan medical professional portrait used illustratively in an academic demo; displayed provider name, specialty, address and fee are fictional."
+  },
+  {
+    "path": "doctors/ahmad.jpg",
+    "photo_subject": "Pazhman Sediqi",
+    "url": "https://arianamc.com/storage/2020/12/Pazhman-Sediqi.jpg",
+    "source_page": "https://arianamc.com/departments/neuropsychiatry/",
+    "ok": true,
+    "note": "Afghan medical professional portrait used illustratively in an academic demo; displayed provider name, specialty, address and fee are fictional."
+  },
+  {
+    "path": "doctors/hamid.jpg",
+    "photo_subject": "Khaibar Sidiqi",
+    "url": "https://arianamc.com/storage/2020/07/Khaibar_Sidiqi.png",
+    "source_page": "https://arianamc.com/khaibar-sidiqi/",
+    "ok": true,
+    "note": "Afghan medical professional portrait used illustratively in an academic demo; displayed provider name, specialty, address and fee are fictional."
+  },
+  {
+    "path": "doctors/nasir.jpg",
+    "photo_subject": "Murtaza Keyomars Azarian",
+    "url": "https://arianamc.com/storage/2025/03/dr-Keyomars-1.png",
+    "source_page": "https://arianamc.com/keyomars-azarian/",
+    "ok": true,
+    "note": "Afghan medical professional portrait used illustratively in an academic demo; displayed provider name, specialty, address and fee are fictional."
+  },
+  {
+    "path": "doctors/zia.jpg",
+    "photo_subject": "Abdul Wahed Sidiqi",
+    "url": "https://arianamc.com/storage/2023/03/Abdul-Wahed-Sidiqi-01-1.png",
+    "source_page": "https://arianamc.com/abdul-wahed-sidiqi/",
+    "ok": true,
+    "note": "Afghan medical professional portrait used illustratively in an academic demo; displayed provider name, specialty, address and fee are fictional."
+  },
+  {
+    "path": "doctors/laila.jpg",
+    "photo_subject": "Sahar Sedeqi",
+    "url": "https://www.gfmer.ch/SRH-Course-2014/participants/images/Sahar-Sedeqi.jpg",
+    "source_page": "https://www.gfmer.ch/SRH-Course-2014/participants/Sahar-Sedeqi.htm",
+    "ok": true,
+    "note": "Afghan medical professional portrait used illustratively in an academic demo; displayed provider name, specialty, address and fee are fictional."
+  },
+  {
+    "path": "pharmacies/shifa-photo.jpg",
+    "url": "https://images.unsplash.com/photo-1576602976047-174e57a47881?auto=format&fit=crop&w=1000&q=85",
+    "ok": true,
+    "note": "Shared illustrative photograph of a pharmacy interior, not the named pharmacy."
+  },
+  {
+    "path": "pharmacies/sehat-photo.jpg",
+    "url": null,
+    "ok": true,
+    "note": "User-supplied illustrative pharmacy photo; does not identify the fictional named pharmacy.",
+    "uploaded_file": "DAWA1.jfif"
+  },
+  {
+    "path": "pharmacies/sina-photo.jpg",
+    "url": null,
+    "ok": true,
+    "note": "User-supplied illustrative pharmacy photo; does not identify the fictional named pharmacy.",
+    "uploaded_file": "DAWA2.jfif"
+  },
+  {
+    "path": "pharmacies/aryana-photo.jpg",
+    "url": null,
+    "ok": true,
+    "note": "User-supplied illustrative pharmacy photo; does not identify the fictional named pharmacy.",
+    "uploaded_file": "DAWA.jfif"
+  },
+  {
+    "path": "pharmacies/omid-photo.jpg",
+    "url": "https://www.sdstate.edu/sites/default/files/2024-12/20240829_Pharmacy_1019.jpg",
+    "ok": true,
+    "note": "Illustrative pharmacy photograph; does not depict the fictional named Afghan pharmacy."
+  },
+  {
+    "path": "pharmacies/rahat-photo.jpg",
+    "url": "https://www.independentpersian.com/sites/default/files/styles/1368x911/public/000_1906VI_0.jpg?itok=hotw9bdZ",
+    "ok": true,
+    "note": "Illustrative pharmacy photograph; does not depict the fictional named Afghan pharmacy."
+  },
+  {
+    "path": "editorial/heart-stethoscope.jpg",
+    "uploaded_file": "TT.jfif",
+    "source": "User supplied",
+    "note": "Decorative or illustrative use only; original source not provided."
+  },
+  {
+    "path": "editorial/healthy-living.jpg",
+    "uploaded_file": "T1.jfif",
+    "source": "User supplied",
+    "note": "Decorative or illustrative use only; original source not provided."
+  },
+  {
+    "path": "clinics/kabul-family.jpg",
+    "url": "https://arianamc.com/storage/2020/02/Arianamc-Cover-1200x900.jpg",
+    "source_page": "https://arianamc.com/2020/02/10/grid-gallery-post/",
+    "note": "Illustrative Afghan healthcare facility photo. Does not identify the fictional clinic named in this academic demo."
+  },
+  {
+    "path": "clinics/parwan-health.jpg",
+    "url": "https://media.alittihad.ae/store/archive/image/2025/6/26/df6d448a-21cb-42f0-aa19-811cb5e04c69.jpg?width=600",
+    "source_page": "https://en.aletihad.ae/news/uae/4585842/uae-funded-maternity-clinics-bringing-hope-to-afghan-familie",
+    "note": "Illustrative Afghan healthcare facility photo. Does not identify the fictional clinic named in this academic demo."
+  },
+  {
+    "path": "clinics/herat-medical.jpg",
+    "url": "https://images.squarespace-cdn.com/content/v1/52e23de5e4b0efdbd0636094/1395335816056-V5X2EB4JJVH3OCD3XRZ3/hospital.jpg",
+    "source_page": "https://www.rezai-stiftung.org/home",
+    "note": "Illustrative Afghan healthcare facility photo. Does not identify the fictional clinic named in this academic demo."
+  },
+  {
+    "path": "clinics/balkh-care.jpg",
+    "url": "https://www.globalmedicalcomplex.af/uploads/services/1755669075_99542f6da34532bac3b7.jpg",
+    "source_page": "https://www.globalmedicalcomplex.af/",
+    "note": "Illustrative Afghan healthcare facility photo. Does not identify the fictional clinic named in this academic demo."
+  },
+  {
+    "path": "clinics/nangarhar-family.jpg",
+    "url": "https://msmc.life/public/ap.jpg",
+    "source_page": "https://msmc.life/",
+    "note": "Illustrative Afghan healthcare facility photo. Does not identify the fictional clinic named in this academic demo."
+  }
+]
