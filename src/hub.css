@@ -342,7 +342,7 @@ footer {
 }
 .map-placeholder {
   height: 390px;
-  background: radial-gradient(circle at 40% 40%, #c8efd4, #b0e4dc 52%, #b6d9e9);
+  background: radial-gradient(circle at 40% 40%, hsl(185, 56%, 41%), #b0e4da 52%, #b6d9e9);
   border-radius: 13px;
   position: relative;
   overflow: hidden;
@@ -634,7 +634,7 @@ input::placeholder {
 }
 .search-hero p {
   font-weight: bold;
-  color: white;
+  color: rgb(255, 255, 255);
 }
 .top-hero {
   background: transparent;

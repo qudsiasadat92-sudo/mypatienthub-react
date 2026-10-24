@@ -6,7 +6,7 @@ const pharmacies = [
  ['Sina Pharmacy','Herat','City center, Herat','08:00–20:00','sina'],
  ['Aryana Pharmacy','Mazar-e-Sharif','Rawza Road, Balkh','09:00–20:00','aryana'],
  ['Omid Pharmacy','Jalalabad','City center, Nangarhar','08:00–19:00','omid'],
- ['Rahat Pharmacy','Kandahar','Aino Mina, Kandahar','09:00–19:00','rahat'],
+ ['Rahat Pharmacy','Kandahar','Marwias mena, Kandahar','09:00–19:00','Merwias'],
 ];
 export default function FindPharmacy() {
  const [term,setTerm]=useState(''),[city,setCity]=useState(''),[selected,setSelected]=useState(null),[medicines,setMedicines]=useState(false);

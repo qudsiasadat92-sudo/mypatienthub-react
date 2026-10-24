@@ -4,6 +4,6 @@ export const PHARMACIES = [
   "Sina Pharmacy",
   "Aryana Pharmacy",
   "Omid Pharmacy",
-  "Rahat Pharmacy",
+  "Merwaise Pharmacy",
 ];
 export default PHARMACIES;
